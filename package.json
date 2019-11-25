@@ -1,0 +1,14 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "HTML",
+    "TypeScript"
+  ],
+  "author": "Mujib Ansari",
+  "license": "MIT"
+}
