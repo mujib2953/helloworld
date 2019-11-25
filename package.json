@@ -1,5 +1,5 @@
 {
-  "name": "helloworld",
+  "name": "@macos/helloworld",
   "version": "1.0.0",
   "description": "Testing",
   "main": "src/index.js",
