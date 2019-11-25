@@ -1,11 +1,11 @@
 {
   "name": "@macos/helloworld",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Testing",
   "access": "public",
   "main": "src/index.js",
   "scripts": {
-	"test": "echo \"No Test Foud\""
+    "test": "echo \"No Test Foud\""
   },
   "keywords": [
     "HTML",
